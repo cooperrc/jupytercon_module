@@ -1,4 +1,7 @@
 # Example Module: Linear Algebra in Engineering
+
+[![hackmd-github-sync-badge](https://hackmd.io/ZGQ3N-9vT3OTIndlYDbO0g/badge)](https://hackmd.io/ZGQ3N-9vT3OTIndlYDbO0g)
+
 ## by Ryan C. Cooper @cooperrc
 ### Accelerated Learning Module for Building a student-centered learning community in Jupyter
 hosted on GitHub at https://github.com/cooperrc/jupytercon_module
