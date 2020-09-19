@@ -1,6 +1,7 @@
 # Example Module: Linear Algebra in Engineering
 ## by Ryan C. Cooper @cooperrc
 ### Accelerated Learning Module for Building a student-centered learning community in Jupyter
+hosted on GitHub at https://github.com/cooperrc/jupytercon_module
 
 The original repositories for the Spring 2020 Computational Mechanics
 course are here: [Computational Mechanics
